@@ -7,10 +7,10 @@ object FunMessages {
 
   def messages = List(
     MessageTree(
-      value = "{name} are you a fan of avocados?",
+      value = ".",
       right = Some(MessageTree(
-        value = "So if I asked you to have a guacamole party with me you'd do it?",
-        right = None,
+        value = "🐱",
+        right = ,
         left = None
       )),
       left = Some(MessageTree(
