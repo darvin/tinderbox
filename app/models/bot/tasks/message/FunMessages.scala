@@ -14,19 +14,24 @@ object FunMessages {
         left = None
       )),
       left = Some(MessageTree(
-        value = "Do women love anything more than avocados?",
+        value = "😻",
         right = None,
         left = None
       ))
     ),
     MessageTree(
-      value = "I can't wait to introduce you to my mom!",
-      right = Some(MessageTree(
-        value = "Since mom showed everyone my naked baby pictures, I've been looking for ways to get her back.",
-        right = None,
-        left = None
-      )),
-      left = None
+      value = "🐈"
+    ),
+    MessageTree(
+      value = "🐱"
+    ),
+
+    MessageTree(
+      value = "😻"
+    ),
+
+    MessageTree(
+      value = "😽"
     )
   )
 
